@@ -1,0 +1,22 @@
+NORMAL PROMPT:
+
+Context: 
+- Prepare a resume, like a Senior Automation Test Engineer who has deep understanding and profound experience. 
+
+My Experiences: 
+[CRITICAL] 10 years of experience in Software Testing, with 4 years of Automation experience. 
+[CRITICAL] Mobile Automation with Appium and Webdriverio. 
+[CRITICAL] Include as appropriate: Selenium Java, RestAPI, Jira, Zephyr, Rally, PL/SQL.  
+[MANDATORY] Test Cases Design, Test Planning & Strategy, Customer Facing Requirements Gathering
+
+  
+EMOTIONAL PROMPT: 
+Context: 
+- Prepare a resume, like a Senior Automation Test Engineer who has deep understanding and profound experience. 
+- Importantly, this resume is for applying to my dream company.  I will be really upset if the resume is not short listed.  
+
+My Experiences: 
+[CRITICAL] 10 years of experience in Software Testing, with 4 years of Automation experience. 
+[CRITICAL] Mobile Automation with Appium and Webdriverio. 
+[CRITICAL] Include as appropriate: Selenium Java, RestAPI, Jira, Zephyr, Rally, PL/SQL.  
+[MANDATORY] Test Cases Design, Test Planning & Strategy, Customer Facing Requirements Gathering
